@@ -1,4 +1,4 @@
 # scheduler/Calendar 
 
 
-<img src="calendar.jpg">
+<img src="calendar.jpeg">
